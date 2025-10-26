@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Bible
 
 ## Old Testament
@@ -41,8 +46,6 @@
 * [Haggai](./1-Old-Testament/37-Haggai/haggai.md)
 * [Zechariah](./1-Old-Testament/38-Zechariah/zechariah.md)
 * [Malachi](./1-Old-Testament/39-Malachi/malachi.md)
-
----
 
 ## New Testament
 
