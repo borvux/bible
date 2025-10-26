@@ -2,7 +2,7 @@
 layout: default
 title: Ezra
 parent_title: Home
-parent_url: /
+parent_url: /bible/
 ---
 
 ## Chapters
