@@ -1,1 +1,5 @@
-# Ezekiel
+---
+layout: default
+title: Ezekiel
+---
+

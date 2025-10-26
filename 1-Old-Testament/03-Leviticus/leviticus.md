@@ -1,1 +1,5 @@
-# Leviticus
+---
+layout: default
+title: Leviticus
+---
+

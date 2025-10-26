@@ -1,1 +1,5 @@
-# 1 Chronicles
+---
+layout: default
+title: 1 Chronicles
+---
+

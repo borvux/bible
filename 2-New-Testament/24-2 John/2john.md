@@ -1,1 +1,5 @@
-# 2 John
+---
+layout: default
+title: 2 John
+---
+

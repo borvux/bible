@@ -1,1 +1,5 @@
-# Ezra
+---
+layout: default
+title: Ezra
+---
+

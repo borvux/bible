@@ -1,1 +1,5 @@
-# Esther
+---
+layout: default
+title: Esther
+---
+

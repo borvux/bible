@@ -1,1 +1,5 @@
-# Amos
+---
+layout: default
+title: Amos
+---
+

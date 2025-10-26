@@ -1,1 +1,5 @@
-# Habakkuk
+---
+layout: default
+title: Habakkuk
+---
+

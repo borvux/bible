@@ -1,1 +1,5 @@
-# Galatians
+---
+layout: default
+title: Galatians
+---
+

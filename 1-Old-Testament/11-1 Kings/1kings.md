@@ -1,1 +1,5 @@
-# 1 Kings
+---
+layout: default
+title: 1 Kings
+---
+

@@ -1,1 +1,5 @@
-# Jude
+---
+layout: default
+title: Jude
+---
+

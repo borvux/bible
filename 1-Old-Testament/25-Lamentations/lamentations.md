@@ -1,1 +1,5 @@
-# Lamentations
+---
+layout: default
+title: Lamentations
+---
+

@@ -1,1 +1,5 @@
-# Hosea
+---
+layout: default
+title: Hosea
+---
+

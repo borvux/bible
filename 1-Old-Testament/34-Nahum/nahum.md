@@ -1,1 +1,5 @@
-# Nahum
+---
+layout: default
+title: Nahum
+---
+

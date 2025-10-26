@@ -1,1 +1,5 @@
-# Colossians
+---
+layout: default
+title: Colossians
+---
+

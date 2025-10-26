@@ -1,1 +1,5 @@
-# Jonah
+---
+layout: default
+title: Jonah
+---
+

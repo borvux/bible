@@ -1,1 +1,5 @@
-# Daniel
+---
+layout: default
+title: Daniel
+---
+

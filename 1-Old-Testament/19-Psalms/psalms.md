@@ -1,1 +1,5 @@
-# Psalms
+---
+layout: default
+title: Psalms
+---
+

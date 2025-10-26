@@ -1,1 +1,5 @@
-# Acts
+---
+layout: default
+title: Acts
+---
+

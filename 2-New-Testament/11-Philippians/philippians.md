@@ -1,1 +1,5 @@
-# Philippians
+---
+layout: default
+title: Philippians
+---
+

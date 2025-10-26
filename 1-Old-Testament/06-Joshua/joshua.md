@@ -1,1 +1,5 @@
-# Joshua
+---
+layout: default
+title: Joshua
+---
+

@@ -1,1 +1,5 @@
-# 1 Corinthians
+---
+layout: default
+title: 1 Corinthians
+---
+

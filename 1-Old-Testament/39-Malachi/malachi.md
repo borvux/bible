@@ -1,1 +1,5 @@
-# Malachi
+---
+layout: default
+title: Malachi
+---
+

@@ -1,1 +1,5 @@
-# Genesis
+---
+layout: default
+title: Genesis
+---
+

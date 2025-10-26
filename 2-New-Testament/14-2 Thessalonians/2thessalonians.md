@@ -1,1 +1,5 @@
-# 2 Thessalonians
+---
+layout: default
+title: 2 Thessalonians
+---
+

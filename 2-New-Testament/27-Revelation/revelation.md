@@ -1,1 +1,5 @@
-# Revelation
+---
+layout: default
+title: Revelation
+---
+

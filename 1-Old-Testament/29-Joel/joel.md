@@ -1,1 +1,5 @@
-# Joel
+---
+layout: default
+title: Joel
+---
+

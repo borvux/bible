@@ -1,1 +1,5 @@
-# Ruth
+---
+layout: default
+title: Ruth
+---
+

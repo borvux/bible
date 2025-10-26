@@ -1,1 +1,5 @@
-# Mark
+---
+layout: default
+title: Mark
+---
+

@@ -1,1 +1,5 @@
-# Zechariah
+---
+layout: default
+title: Zechariah
+---
+

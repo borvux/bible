@@ -1,1 +1,5 @@
-# 2 Timothy
+---
+layout: default
+title: 2 Timothy
+---
+

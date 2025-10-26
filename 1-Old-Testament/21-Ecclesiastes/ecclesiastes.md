@@ -1,1 +1,5 @@
-# Ecclesiastes
+---
+layout: default
+title: Ecclesiastes
+---
+

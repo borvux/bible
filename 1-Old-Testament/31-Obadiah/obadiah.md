@@ -1,1 +1,5 @@
-# Obadiah
+---
+layout: default
+title: Obadiah
+---
+

@@ -1,1 +1,5 @@
-# 1 Samuel
+---
+layout: default
+title: 1 Samuel
+---
+

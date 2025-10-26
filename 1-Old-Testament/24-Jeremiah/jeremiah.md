@@ -1,1 +1,5 @@
-# Jeremiah
+---
+layout: default
+title: Jeremiah
+---
+

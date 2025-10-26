@@ -1,1 +1,5 @@
-# Isaiah
+---
+layout: default
+title: Isaiah
+---
+

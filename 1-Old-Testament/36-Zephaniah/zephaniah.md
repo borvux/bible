@@ -1,1 +1,5 @@
-# Zephaniah
+---
+layout: default
+title: Zephaniah
+---
+

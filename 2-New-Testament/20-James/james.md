@@ -1,1 +1,5 @@
-# James
+---
+layout: default
+title: James
+---
+

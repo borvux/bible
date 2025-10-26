@@ -1,1 +1,5 @@
-# 1 Peter
+---
+layout: default
+title: 1 Peter
+---
+

@@ -1,1 +1,5 @@
-# Judges
+---
+layout: default
+title: Judges
+---
+

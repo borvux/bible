@@ -1,1 +1,5 @@
-# Song of Solomon
+---
+layout: default
+title: Song of Solomon
+---
+

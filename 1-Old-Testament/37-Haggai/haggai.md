@@ -1,1 +1,5 @@
-# Haggai
+---
+layout: default
+title: Haggai
+---
+

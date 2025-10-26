@@ -1,1 +1,5 @@
-# Micah
+---
+layout: default
+title: Micah
+---
+

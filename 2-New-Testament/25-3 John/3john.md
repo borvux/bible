@@ -1,1 +1,5 @@
-# 3 John
+---
+layout: default
+title: 3 John
+---
+

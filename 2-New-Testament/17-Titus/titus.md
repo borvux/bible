@@ -1,1 +1,5 @@
-# Titus
+---
+layout: default
+title: Titus
+---
+

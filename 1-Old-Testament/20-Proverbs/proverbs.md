@@ -1,1 +1,5 @@
-# Proverbs
+---
+layout: default
+title: Proverbs
+---
+

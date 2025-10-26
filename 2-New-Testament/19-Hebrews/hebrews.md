@@ -1,1 +1,5 @@
-# Hebrews
+---
+layout: default
+title: Hebrews
+---
+

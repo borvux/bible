@@ -1,1 +1,5 @@
-# Exodus
+---
+layout: default
+title: Exodus
+---
+

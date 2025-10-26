@@ -1,1 +1,5 @@
-# Deuteronomy
+---
+layout: default
+title: Deuteronomy
+---
+

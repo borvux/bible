@@ -1,1 +1,5 @@
-# Philemon
+---
+layout: default
+title: Philemon
+---
+
