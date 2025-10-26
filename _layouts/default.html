@@ -9,12 +9,18 @@
 </head>
 
 <body>
-  <header>
-    <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-  </header>
   <main>
+    {% if page.parent_url %}
+      <div class="sticky-nav-wrapper">
+        <nav class="breadcrumb">
+          <a href="{{ page.parent_url | replace: '.md', '.html' }}">&larr; Go back to {{ page.parent_title }}</a>
+        </nav>
+      </div>
+    {% endif %}
+
     {{ content }}
   </main>
 </body>
 
 </html>
+
