@@ -1,0 +1,14 @@
+{
+  "editor.tabSize": 2,
+  "files.exclude": {
+    ".gitignore": true,
+    ".vscode": true,
+    "_layouts": true,
+    "_config.yml": true,
+    "_site": true,
+    "assets": true,
+    "Gemfile": true,
+    "Gemfile.lock": true,
+    "index.md": true,
+  }
+}
