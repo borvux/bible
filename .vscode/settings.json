@@ -10,5 +10,6 @@
     "Gemfile": true,
     "Gemfile.lock": true,
     "index.md": true,
+    "README.md": true,
   }
 }
